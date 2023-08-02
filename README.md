@@ -1,4 +1,4 @@
-# protheus-advpl
+# Protheus - AdvPL
 
 ## Repositório contendo funções por módulo e rotina do Protheus
 
